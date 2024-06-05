@@ -1,0 +1,3 @@
+com\jwt\JwtApplication.class
+com\jwt\repositories\UserRepository.class
+com\jwt\entity\User.class
